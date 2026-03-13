@@ -1,0 +1,21 @@
+# Linear Regression
+
+Linear regression is a supervised learning algorithm used to predict continuous values.
+
+## Formula
+
+y = wX + b
+
+Where:
+- w = weight
+- b = bias
+
+## Goal
+
+Minimize the error between predicted and actual values (usually Mean Squared Error).
+
+## Applications
+
+- House price prediction
+- Sales forecasting
+- Demand prediction
