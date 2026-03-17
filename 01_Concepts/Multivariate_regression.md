@@ -6,7 +6,7 @@ In univariate regression, we work on scenarios where we only have one dependent 
 
 
 
-For example: If we're trying to predict \*\*study hours\*\* using \*\*exam score\*\* of students, or \*\*house size\*\* using \*\*house price\*\*, we're essentially implementing univariate regression.
+For example: If we're trying to predict \*\* study hours \*\* using \*\* exam score \*\* of students, or \*\* house size \*\* using \*\* house price \*\*, we're essentially implementing univariate regression.
 
 
 
