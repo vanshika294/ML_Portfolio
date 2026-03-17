@@ -10,7 +10,7 @@ For example: If we're trying to predict \*\*study hours\*\* using \*\*exam score
 
 
 
-So, here we have one cause -> one effect.
+So, here we have one cause  one effect.
 
 
 
@@ -22,7 +22,7 @@ For instance, if we want to \*\*predict the price of a house from:\*\*
 
 
 
-1\) Size (x1)  
+1\) Size (x1)
 
 2\) No. of bedrooms (x2)
 
@@ -40,9 +40,9 @@ Where:
 
 
 
-\- w0 is the intercept  
+\- w0 is the intercept
 
-\- w1 and w2 are weights of each predictor  
+\- w1 and w2 are weights of each predictor
 
 
 
@@ -51,4 +51,6 @@ So, essentially in multivariate regression, we find the best fitting flat surfac
 
 
 w1 and w2 are also known as \*\*coefficients\*\*, which reflect how important each predictor (variable) is.
+
+
 
