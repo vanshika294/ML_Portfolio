@@ -6,19 +6,19 @@ In univariate regression, we work on scenarios where we only have one dependent 
 
 
 
-For example: If we're trying to predict  * *study hours * * using  * *exam score * * of students, or  * *house size * * using  * *house price * *, we're essentially implementing univariate regression.
+For example: If we're trying to predict  **study hours** using  **exam score** of students, or  **house size** using  **house price**, we're essentially implementing univariate regression.
 
 
 
-So, here we have one cause  one effect.
+So, here we have one cause->  one effect.
 
 
 
- ## In  * *Multivariate Regression * *, we can predict outcomes using many predictors.
+ ## In  **Multivariate Regression**, we can predict outcomes using many predictors.
 
 
 
-For instance, if we want to  * *predict the price of a house from: * *
+For instance, if we want to  **predict the price of a house from:**
 
 
 
@@ -32,7 +32,7 @@ The equation for the above case would look like this:
 
 
 
- * *y = w0 + w1x1 + w2x2 * *
+**y = w0 + w1x1 + w2x2**
 
 
 
@@ -50,7 +50,7 @@ So, essentially in multivariate regression, we find the best fitting flat surfac
 
 
 
-w1 and w2 are also known as  * *coefficients * *, which reflect how important each predictor (variable) is.
+w1 and w2 are also known as   **coefficients**, which reflect how important each predictor (variable) is.
 
 
 
