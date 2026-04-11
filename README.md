@@ -1,15 +1,14 @@
-## 🌱 My ML(Machine Learning) Learning Journey
+## 🌱 My Machine Learning Learning Journey
 
-This space documents my journey of learning Machine Learning slowly and intentionally.
+This space documents my journey of learning Machine Learning in a slow and intentional way.
 
-I’m not starting with polished projects — I’m starting with questions, small experiments, and trying to understand things step by step. A lot of the time, things don’t make sense immediately, and there’s some uncertainty — but instead of rushing past that, I’m learning to stay with it and work through it patiently.
+I am not starting with polished projects. Instead, I am starting with questions, small experiments, and trying to understand things step by step. Many times, things don’t make sense immediately, and there is uncertainty. Instead of rushing, I try to stay patient and work through it.
 
-Right now, my focus is on understanding how models behave, why results change, and what’s actually happening behind the scenes. The path isn’t always clear — especially when it comes to knowing what actually counts as progress and skill-building.
+Right now, my focus is on understanding how models behave, why results change, and what is happening behind the scenes. The path is not always clear, especially when it comes to understanding what truly counts as progress and skill-building.
 
-This is less about having everything figured out and more about gradually building clarity, intuition, and confidence over time.
+This journey is not about having everything figured out. It is about gradually building clarity, intuition, and confidence over time.
 
-
-🌟*Every notebook, experiment, and note here is a step in understanding — not just coding. My goal is to grow steadily, question deeply, and build intuition that lasts beyond tutorials. This is a record of learning, exploring, and moving forward with purpose.*
+🌟*Every notebook, experiment, and note here is a step toward understanding, not just coding. My goal is to grow steadily, ask meaningful questions, and build strong intuition beyond tutorials. This is a record of learning, exploring, and moving forward with purpose.*
 
 ---
 
