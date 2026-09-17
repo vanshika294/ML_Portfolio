@@ -1,6 +1,6 @@
 ## 🌱ML Learning Journey
 
-Applied ML experiments, first-principles notes, and medical diagnostic classification pipelines.
+Applied ML experiments, first-principles notes, and classification pipelines.
 
 ### 🔄 Status: *Active & Continuously Evolving*
 *This repository serves as my primary Machine Learning workspace. Concepts, code experiments, and ML pipelines are continuously expanded and updated.*
