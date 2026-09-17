@@ -1,9 +1,8 @@
-## 🌱ML Learning Journey
+## 🌱Applied ML Fundamentals
+Applied ML experiments, first-principles notes, and end-to-end data pipelines.
 
-Applied ML experiments, first-principles notes, and classification pipelines.
-
-### 🔄 Status: *Active & Continuously Evolving*
-*This repository serves as my primary Machine Learning workspace. Concepts, code experiments, and ML pipelines are continuously expanded and updated.*
+### 🔄 Status: Active & Continuously Evolving
+This repository serves as my primary Machine Learning workspace. Concepts, code experiments, and ML pipelines are continuously expanded and updated.
 
 
 ---
@@ -15,9 +14,10 @@ ML-Learning-Journey/
 
 ├── 📘 concepts/                       → Theoretical notes & first-principles intuition
 │
-└── 🧪 experiments-and-mini-projects/   → Applied algorithms & clinical pipelines
+└── 🧪 experiments-and-mini-projects/   → Applied algorithms & clinical/psychometric pipelines
     ├── 01-regression/                 → Synthetic benchmarks, bias-variance & regularization
-    └── 02-classification/             → Breast cancer (98.25% acc) & Heart disease pipelines
+    ├── 02-classification/             → Breast cancer (98.25% acc) & Heart disease pipelines
+    └── 03-clustering/                 → Big Five Psychometric Segmentation (K-Means & Profiling)
     
 ```
 
